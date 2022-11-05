@@ -16,6 +16,5 @@ namespace cx{
         string hh = "Hello World";
         void hello() const;
         virtual void world(int a, int b);
-
     };
 }

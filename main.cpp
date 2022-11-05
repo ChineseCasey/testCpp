@@ -13,9 +13,8 @@ void cx::Hello::world(int a, int b){
     }
 };
 
-
 int main() {
-    //test git aaa
+    //test git
     cx::Hello hello;
     int number;
     number = hello.hh.size();
